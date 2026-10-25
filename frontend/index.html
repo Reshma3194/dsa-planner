@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DSA Planner</title>
+  <meta name="description" content="Plan your DSA interview prep around the days and hours you have. Free LeetCode problems only." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23101828'/%3E%3Cpath d='M9 22V10h6.2c3.6 0 5.8 2.3 5.8 6s-2.2 6-5.8 6H9z' fill='none' stroke='white' stroke-width='2.4' stroke-linejoin='round'/%3E%3C/svg%3E" />
+  <script>
+    // Apply the saved/system theme before first paint to avoid a flash.
+    try {
+      var t = localStorage.getItem('dsa-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
+  <link rel="stylesheet" href="/css/app.css" />
+</head>
+<body>
+  <div id="app"><div class="loading"><span class="spinner"></span> Loading</div></div>
+  <noscript><p style="padding:24px">DSA Planner needs JavaScript enabled.</p></noscript>
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

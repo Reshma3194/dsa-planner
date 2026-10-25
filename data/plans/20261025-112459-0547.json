@@ -1,0 +1,1762 @@
+{
+  "id": "20261025-112459-0547",
+  "name": "30-day plan, 2 h/day",
+  "created_at": "2026-10-25T11:24:59",
+  "params": {
+    "days": 30,
+    "hours_per_day": 2.0,
+    "level": "intermediate",
+    "weak_topics": [
+      "Arrays & Hashing",
+      "Two Pointers",
+      "Sliding Window",
+      "Binary Search",
+      "Linked List",
+      "Trees",
+      "Stack",
+      "Backtracking",
+      "1-D DP",
+      "2-D DP",
+      "Math & Geometry",
+      "Bit Manipulation"
+    ],
+    "start_date": "2026-10-25"
+  },
+  "verification": {
+    "status": "verified",
+    "checked_at": "2026-10-25T05:54:57+00:00",
+    "source": "leetcode.com",
+    "paid_removed": 0,
+    "not_found_removed": 0,
+    "note": "Checked against leetcode.com just now."
+  },
+  "summary": {
+    "new_problems": 65,
+    "review_slots": 16,
+    "planned_minutes": 2780,
+    "planned_hours": 46.3,
+    "core_total": 96,
+    "core_covered": 65,
+    "core_pct": 68,
+    "by_topic": [
+      {
+        "topic": "Arrays & Hashing",
+        "count": 5
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 5
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 5
+      },
+      {
+        "topic": "Stack",
+        "count": 5
+      },
+      {
+        "topic": "Binary Search",
+        "count": 5
+      },
+      {
+        "topic": "Linked List",
+        "count": 5
+      },
+      {
+        "topic": "Trees",
+        "count": 5
+      },
+      {
+        "topic": "Tries",
+        "count": 1
+      },
+      {
+        "topic": "Heap / Priority Queue",
+        "count": 3
+      },
+      {
+        "topic": "Backtracking",
+        "count": 5
+      },
+      {
+        "topic": "Graphs",
+        "count": 3
+      },
+      {
+        "topic": "1-D DP",
+        "count": 4
+      },
+      {
+        "topic": "2-D DP",
+        "count": 3
+      },
+      {
+        "topic": "Greedy",
+        "count": 2
+      },
+      {
+        "topic": "Intervals",
+        "count": 2
+      },
+      {
+        "topic": "Math & Geometry",
+        "count": 3
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 4
+      }
+    ],
+    "by_difficulty": {
+      "Easy": 21,
+      "Medium": 40,
+      "Hard": 4
+    },
+    "missing_core": [
+      {
+        "slug": "product-of-array-except-self",
+        "title": "Product of Array Except Self",
+        "topic": "Arrays & Hashing",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "longest-consecutive-sequence",
+        "title": "Longest Consecutive Sequence",
+        "topic": "Arrays & Hashing",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "sliding-window-maximum",
+        "title": "Sliding Window Maximum",
+        "topic": "Sliding Window",
+        "difficulty": "Hard"
+      },
+      {
+        "slug": "add-two-numbers",
+        "title": "Add Two Numbers",
+        "topic": "Linked List",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "lru-cache",
+        "title": "LRU Cache",
+        "topic": "Linked List",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "merge-k-sorted-lists",
+        "title": "Merge k Sorted Lists",
+        "topic": "Linked List",
+        "difficulty": "Hard"
+      },
+      {
+        "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "topic": "Trees",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "binary-tree-level-order-traversal",
+        "title": "Binary Tree Level Order Traversal",
+        "topic": "Trees",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "binary-tree-right-side-view",
+        "title": "Binary Tree Right Side View",
+        "topic": "Trees",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "validate-binary-search-tree",
+        "title": "Validate Binary Search Tree",
+        "topic": "Trees",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "kth-smallest-element-in-a-bst",
+        "title": "Kth Smallest Element in a BST",
+        "topic": "Trees",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "topic": "Trees",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "binary-tree-maximum-path-sum",
+        "title": "Binary Tree Maximum Path Sum",
+        "topic": "Trees",
+        "difficulty": "Hard"
+      },
+      {
+        "slug": "generate-parentheses",
+        "title": "Generate Parentheses",
+        "topic": "Backtracking",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "n-queens",
+        "title": "N-Queens",
+        "topic": "Backtracking",
+        "difficulty": "Hard"
+      },
+      {
+        "slug": "rotting-oranges",
+        "title": "Rotting Oranges",
+        "topic": "Graphs",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "course-schedule",
+        "title": "Course Schedule",
+        "topic": "Graphs",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "course-schedule-ii",
+        "title": "Course Schedule II",
+        "topic": "Graphs",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "maximum-subarray",
+        "title": "Maximum Subarray",
+        "topic": "1-D DP",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "longest-palindromic-substring",
+        "title": "Longest Palindromic Substring",
+        "topic": "1-D DP",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "palindromic-substrings",
+        "title": "Palindromic Substrings",
+        "topic": "1-D DP",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "decode-ways",
+        "title": "Decode Ways",
+        "topic": "1-D DP",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "coin-change",
+        "title": "Coin Change",
+        "topic": "1-D DP",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "maximum-product-subarray",
+        "title": "Maximum Product Subarray",
+        "topic": "1-D DP",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "word-break",
+        "title": "Word Break",
+        "topic": "1-D DP",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "longest-increasing-subsequence",
+        "title": "Longest Increasing Subsequence",
+        "topic": "1-D DP",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "partition-equal-subset-sum",
+        "title": "Partition Equal Subset Sum",
+        "topic": "1-D DP",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "gas-station",
+        "title": "Gas Station",
+        "topic": "Greedy",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "partition-labels",
+        "title": "Partition Labels",
+        "topic": "Greedy",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "non-overlapping-intervals",
+        "title": "Non-overlapping Intervals",
+        "topic": "Intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "slug": "missing-number",
+        "title": "Missing Number",
+        "topic": "Bit Manipulation",
+        "difficulty": "Easy"
+      }
+    ],
+    "dropped": [
+      {
+        "slug": "product-of-array-except-self",
+        "title": "Product of Array Except Self",
+        "topic": "Arrays & Hashing",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "longest-consecutive-sequence",
+        "title": "Longest Consecutive Sequence",
+        "topic": "Arrays & Hashing",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "sliding-window-maximum",
+        "title": "Sliding Window Maximum",
+        "topic": "Sliding Window",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "add-two-numbers",
+        "title": "Add Two Numbers",
+        "topic": "Linked List",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "lru-cache",
+        "title": "LRU Cache",
+        "topic": "Linked List",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "merge-k-sorted-lists",
+        "title": "Merge k Sorted Lists",
+        "topic": "Linked List",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "topic": "Trees",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "binary-tree-level-order-traversal",
+        "title": "Binary Tree Level Order Traversal",
+        "topic": "Trees",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "binary-tree-right-side-view",
+        "title": "Binary Tree Right Side View",
+        "topic": "Trees",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "validate-binary-search-tree",
+        "title": "Validate Binary Search Tree",
+        "topic": "Trees",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "kth-smallest-element-in-a-bst",
+        "title": "Kth Smallest Element in a BST",
+        "topic": "Trees",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "topic": "Trees",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "binary-tree-maximum-path-sum",
+        "title": "Binary Tree Maximum Path Sum",
+        "topic": "Trees",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "generate-parentheses",
+        "title": "Generate Parentheses",
+        "topic": "Backtracking",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "n-queens",
+        "title": "N-Queens",
+        "topic": "Backtracking",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "rotting-oranges",
+        "title": "Rotting Oranges",
+        "topic": "Graphs",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "course-schedule",
+        "title": "Course Schedule",
+        "topic": "Graphs",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "course-schedule-ii",
+        "title": "Course Schedule II",
+        "topic": "Graphs",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "maximum-subarray",
+        "title": "Maximum Subarray",
+        "topic": "1-D DP",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "longest-palindromic-substring",
+        "title": "Longest Palindromic Substring",
+        "topic": "1-D DP",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "palindromic-substrings",
+        "title": "Palindromic Substrings",
+        "topic": "1-D DP",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "decode-ways",
+        "title": "Decode Ways",
+        "topic": "1-D DP",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "coin-change",
+        "title": "Coin Change",
+        "topic": "1-D DP",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "maximum-product-subarray",
+        "title": "Maximum Product Subarray",
+        "topic": "1-D DP",
+        "reason": "Core problem that did not fit the time budget"
+      },
+      {
+        "slug": "word-break",
+        "title": "Word Break",
+        "topic": "1-D DP",
+        "reason": "Core problem that did not fit the time budget"
+      }
+    ],
+    "recommendation": {
+      "days_for_full_core": 49,
+      "hours_for_full_core": 3.5
+    },
+    "notes": [
+      "At 2 h/day over 30 days this plan covers 65 of 96 core problems (68%). To cover all of them you need about 49 days at this pace, or roughly 3.5 h/day for 30 days.",
+      "Review days re-solve earlier problems without hints. Anything you cannot finish alone goes to Redo."
+    ],
+    "removed_by_verification": []
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-10-25",
+      "kind": "learn",
+      "theme": "Arrays & Hashing",
+      "topics": [
+        "Arrays & Hashing"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "contains-duplicate",
+          "title": "Contains Duplicate",
+          "difficulty": "Easy",
+          "topic": "Arrays & Hashing",
+          "pattern": "Hash set",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/contains-duplicate/"
+        },
+        {
+          "slug": "valid-anagram",
+          "title": "Valid Anagram",
+          "difficulty": "Easy",
+          "topic": "Arrays & Hashing",
+          "pattern": "Frequency count",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/valid-anagram/"
+        },
+        {
+          "slug": "two-sum",
+          "title": "Two Sum",
+          "difficulty": "Easy",
+          "topic": "Arrays & Hashing",
+          "pattern": "Hash map complement",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/two-sum/"
+        },
+        {
+          "slug": "group-anagrams",
+          "title": "Group Anagrams",
+          "difficulty": "Medium",
+          "topic": "Arrays & Hashing",
+          "pattern": "Hash map by signature",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/group-anagrams/"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-10-26",
+      "kind": "learn",
+      "theme": "Arrays & Hashing · Two Pointers",
+      "topics": [
+        "Arrays & Hashing",
+        "Two Pointers"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "top-k-frequent-elements",
+          "title": "Top K Frequent Elements",
+          "difficulty": "Medium",
+          "topic": "Arrays & Hashing",
+          "pattern": "Bucket sort / heap",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/top-k-frequent-elements/"
+        },
+        {
+          "slug": "valid-palindrome",
+          "title": "Valid Palindrome",
+          "difficulty": "Easy",
+          "topic": "Two Pointers",
+          "pattern": "Opposite-end pointers",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/valid-palindrome/"
+        },
+        {
+          "slug": "two-sum-ii-input-array-is-sorted",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "difficulty": "Medium",
+          "topic": "Two Pointers",
+          "pattern": "Sorted two pointers",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-10-27",
+      "kind": "learn",
+      "theme": "Two Pointers · Sliding Window",
+      "topics": [
+        "Two Pointers",
+        "Sliding Window"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "3sum",
+          "title": "3Sum",
+          "difficulty": "Medium",
+          "topic": "Two Pointers",
+          "pattern": "Sort + two pointers",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/3sum/"
+        },
+        {
+          "slug": "container-with-most-water",
+          "title": "Container With Most Water",
+          "difficulty": "Medium",
+          "topic": "Two Pointers",
+          "pattern": "Greedy pointer move",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/container-with-most-water/"
+        },
+        {
+          "slug": "best-time-to-buy-and-sell-stock",
+          "title": "Best Time to Buy and Sell Stock",
+          "difficulty": "Easy",
+          "topic": "Sliding Window",
+          "pattern": "Track running minimum",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-10-28",
+      "kind": "learn",
+      "theme": "Two Pointers · Stack",
+      "topics": [
+        "Two Pointers",
+        "Stack"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 85,
+      "items": [
+        {
+          "slug": "trapping-rain-water",
+          "title": "Trapping Rain Water",
+          "difficulty": "Hard",
+          "topic": "Two Pointers",
+          "pattern": "Two pointers / prefix max",
+          "tier": 1,
+          "minutes": 65,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/trapping-rain-water/"
+        },
+        {
+          "slug": "valid-parentheses",
+          "title": "Valid Parentheses",
+          "difficulty": "Easy",
+          "topic": "Stack",
+          "pattern": "Stack matching",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/valid-parentheses/"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-10-29",
+      "kind": "learn",
+      "theme": "Sliding Window · Binary Search",
+      "topics": [
+        "Sliding Window",
+        "Binary Search"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "longest-substring-without-repeating-characters",
+          "title": "Longest Substring Without Repeating Characters",
+          "difficulty": "Medium",
+          "topic": "Sliding Window",
+          "pattern": "Window + set/map",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+        },
+        {
+          "slug": "longest-repeating-character-replacement",
+          "title": "Longest Repeating Character Replacement",
+          "difficulty": "Medium",
+          "topic": "Sliding Window",
+          "pattern": "Window with max frequency",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+        },
+        {
+          "slug": "binary-search",
+          "title": "Binary Search",
+          "difficulty": "Easy",
+          "topic": "Binary Search",
+          "pattern": "Classic template",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/binary-search/"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-10-30",
+      "kind": "learn",
+      "theme": "Sliding Window · Stack",
+      "topics": [
+        "Sliding Window",
+        "Stack"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 80,
+      "items": [
+        {
+          "slug": "permutation-in-string",
+          "title": "Permutation in String",
+          "difficulty": "Medium",
+          "topic": "Sliding Window",
+          "pattern": "Fixed window frequency",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/permutation-in-string/"
+        },
+        {
+          "slug": "min-stack",
+          "title": "Min Stack",
+          "difficulty": "Medium",
+          "topic": "Stack",
+          "pattern": "Auxiliary min stack",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/min-stack/"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-10-31",
+      "kind": "review",
+      "theme": "Review & re-solve",
+      "topics": [],
+      "budget_minutes": 120,
+      "planned_minutes": 95,
+      "items": [
+        {
+          "slug": "trapping-rain-water",
+          "title": "Trapping Rain Water",
+          "difficulty": "Hard",
+          "topic": "Two Pointers",
+          "pattern": "Two pointers / prefix max",
+          "tier": 1,
+          "minutes": 50,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/trapping-rain-water/"
+        },
+        {
+          "slug": "group-anagrams",
+          "title": "Group Anagrams",
+          "difficulty": "Medium",
+          "topic": "Arrays & Hashing",
+          "pattern": "Hash map by signature",
+          "tier": 1,
+          "minutes": 30,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/group-anagrams/"
+        },
+        {
+          "slug": "contains-duplicate",
+          "title": "Contains Duplicate",
+          "difficulty": "Easy",
+          "topic": "Arrays & Hashing",
+          "pattern": "Hash set",
+          "tier": 1,
+          "minutes": 15,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/contains-duplicate/"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-11-01",
+      "kind": "learn",
+      "theme": "Sliding Window · Linked List",
+      "topics": [
+        "Sliding Window",
+        "Linked List"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 85,
+      "items": [
+        {
+          "slug": "minimum-window-substring",
+          "title": "Minimum Window Substring",
+          "difficulty": "Hard",
+          "topic": "Sliding Window",
+          "pattern": "Variable window with counts",
+          "tier": 1,
+          "minutes": 65,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/minimum-window-substring/"
+        },
+        {
+          "slug": "reverse-linked-list",
+          "title": "Reverse Linked List",
+          "difficulty": "Easy",
+          "topic": "Linked List",
+          "pattern": "Pointer reversal",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/reverse-linked-list/"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2026-11-02",
+      "kind": "learn",
+      "theme": "Stack · Linked List",
+      "topics": [
+        "Stack",
+        "Linked List"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "evaluate-reverse-polish-notation",
+          "title": "Evaluate Reverse Polish Notation",
+          "difficulty": "Medium",
+          "topic": "Stack",
+          "pattern": "Operand stack",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+        },
+        {
+          "slug": "daily-temperatures",
+          "title": "Daily Temperatures",
+          "difficulty": "Medium",
+          "topic": "Stack",
+          "pattern": "Monotonic stack",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/daily-temperatures/"
+        },
+        {
+          "slug": "merge-two-sorted-lists",
+          "title": "Merge Two Sorted Lists",
+          "difficulty": "Easy",
+          "topic": "Linked List",
+          "pattern": "Dummy head merge",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2026-11-03",
+      "kind": "learn",
+      "theme": "Stack · Linked List",
+      "topics": [
+        "Stack",
+        "Linked List"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 85,
+      "items": [
+        {
+          "slug": "largest-rectangle-in-histogram",
+          "title": "Largest Rectangle in Histogram",
+          "difficulty": "Hard",
+          "topic": "Stack",
+          "pattern": "Monotonic stack",
+          "tier": 1,
+          "minutes": 65,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+        },
+        {
+          "slug": "linked-list-cycle",
+          "title": "Linked List Cycle",
+          "difficulty": "Easy",
+          "topic": "Linked List",
+          "pattern": "Fast/slow pointers",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/linked-list-cycle/"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "date": "2026-11-04",
+      "kind": "learn",
+      "theme": "Binary Search · Trees",
+      "topics": [
+        "Binary Search",
+        "Trees"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "search-a-2d-matrix",
+          "title": "Search a 2D Matrix",
+          "difficulty": "Medium",
+          "topic": "Binary Search",
+          "pattern": "Flattened binary search",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/search-a-2d-matrix/"
+        },
+        {
+          "slug": "koko-eating-bananas",
+          "title": "Koko Eating Bananas",
+          "difficulty": "Medium",
+          "topic": "Binary Search",
+          "pattern": "Binary search on answer",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/koko-eating-bananas/"
+        },
+        {
+          "slug": "invert-binary-tree",
+          "title": "Invert Binary Tree",
+          "difficulty": "Easy",
+          "topic": "Trees",
+          "pattern": "DFS swap children",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/invert-binary-tree/"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "date": "2026-11-05",
+      "kind": "learn",
+      "theme": "Binary Search · Trees",
+      "topics": [
+        "Binary Search",
+        "Trees"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "find-minimum-in-rotated-sorted-array",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "difficulty": "Medium",
+          "topic": "Binary Search",
+          "pattern": "Rotated array pivot",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+        },
+        {
+          "slug": "search-in-rotated-sorted-array",
+          "title": "Search in Rotated Sorted Array",
+          "difficulty": "Medium",
+          "topic": "Binary Search",
+          "pattern": "Rotated array search",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+        },
+        {
+          "slug": "maximum-depth-of-binary-tree",
+          "title": "Maximum Depth of Binary Tree",
+          "difficulty": "Easy",
+          "topic": "Trees",
+          "pattern": "DFS height",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "date": "2026-11-06",
+      "kind": "learn",
+      "theme": "Linked List · Trees",
+      "topics": [
+        "Linked List",
+        "Trees"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "reorder-list",
+          "title": "Reorder List",
+          "difficulty": "Medium",
+          "topic": "Linked List",
+          "pattern": "Middle + reverse + merge",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/reorder-list/"
+        },
+        {
+          "slug": "remove-nth-node-from-end-of-list",
+          "title": "Remove Nth Node From End of List",
+          "difficulty": "Medium",
+          "topic": "Linked List",
+          "pattern": "Gap between pointers",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+        },
+        {
+          "slug": "diameter-of-binary-tree",
+          "title": "Diameter of Binary Tree",
+          "difficulty": "Easy",
+          "topic": "Trees",
+          "pattern": "DFS height + global max",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/diameter-of-binary-tree/"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "date": "2026-11-07",
+      "kind": "review",
+      "theme": "Review & re-solve",
+      "topics": [],
+      "budget_minutes": 120,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "minimum-window-substring",
+          "title": "Minimum Window Substring",
+          "difficulty": "Hard",
+          "topic": "Sliding Window",
+          "pattern": "Variable window with counts",
+          "tier": 1,
+          "minutes": 50,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/minimum-window-substring/"
+        },
+        {
+          "slug": "largest-rectangle-in-histogram",
+          "title": "Largest Rectangle in Histogram",
+          "difficulty": "Hard",
+          "topic": "Stack",
+          "pattern": "Monotonic stack",
+          "tier": 1,
+          "minutes": 50,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "date": "2026-11-08",
+      "kind": "learn",
+      "theme": "Trees · Tries",
+      "topics": [
+        "Trees",
+        "Tries"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 80,
+      "items": [
+        {
+          "slug": "balanced-binary-tree",
+          "title": "Balanced Binary Tree",
+          "difficulty": "Easy",
+          "topic": "Trees",
+          "pattern": "DFS height check",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/balanced-binary-tree/"
+        },
+        {
+          "slug": "same-tree",
+          "title": "Same Tree",
+          "difficulty": "Easy",
+          "topic": "Trees",
+          "pattern": "Parallel DFS",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/same-tree/"
+        },
+        {
+          "slug": "implement-trie-prefix-tree",
+          "title": "Implement Trie (Prefix Tree)",
+          "difficulty": "Medium",
+          "topic": "Tries",
+          "pattern": "Trie nodes",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "date": "2026-11-09",
+      "kind": "learn",
+      "theme": "Heap / Priority Queue",
+      "topics": [
+        "Heap / Priority Queue"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 80,
+      "items": [
+        {
+          "slug": "kth-largest-element-in-an-array",
+          "title": "Kth Largest Element in an Array",
+          "difficulty": "Medium",
+          "topic": "Heap / Priority Queue",
+          "pattern": "Heap / quickselect",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+        },
+        {
+          "slug": "k-closest-points-to-origin",
+          "title": "K Closest Points to Origin",
+          "difficulty": "Medium",
+          "topic": "Heap / Priority Queue",
+          "pattern": "Heap by distance",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/k-closest-points-to-origin/"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "date": "2026-11-10",
+      "kind": "learn",
+      "theme": "Heap / Priority Queue",
+      "topics": [
+        "Heap / Priority Queue"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 65,
+      "items": [
+        {
+          "slug": "find-median-from-data-stream",
+          "title": "Find Median from Data Stream",
+          "difficulty": "Hard",
+          "topic": "Heap / Priority Queue",
+          "pattern": "Two heaps",
+          "tier": 1,
+          "minutes": 65,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/find-median-from-data-stream/"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "date": "2026-11-11",
+      "kind": "learn",
+      "theme": "Backtracking · 1-D DP",
+      "topics": [
+        "Backtracking",
+        "1-D DP"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "subsets",
+          "title": "Subsets",
+          "difficulty": "Medium",
+          "topic": "Backtracking",
+          "pattern": "Include / exclude",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/subsets/"
+        },
+        {
+          "slug": "combination-sum",
+          "title": "Combination Sum",
+          "difficulty": "Medium",
+          "topic": "Backtracking",
+          "pattern": "Backtracking with reuse",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/combination-sum/"
+        },
+        {
+          "slug": "climbing-stairs",
+          "title": "Climbing Stairs",
+          "difficulty": "Easy",
+          "topic": "1-D DP",
+          "pattern": "Fibonacci recurrence",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/climbing-stairs/"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "date": "2026-11-12",
+      "kind": "learn",
+      "theme": "Backtracking · 1-D DP",
+      "topics": [
+        "Backtracking",
+        "1-D DP"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "permutations",
+          "title": "Permutations",
+          "difficulty": "Medium",
+          "topic": "Backtracking",
+          "pattern": "Used-array backtracking",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/permutations/"
+        },
+        {
+          "slug": "word-search",
+          "title": "Word Search",
+          "difficulty": "Medium",
+          "topic": "Backtracking",
+          "pattern": "Grid DFS backtracking",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/word-search/"
+        },
+        {
+          "slug": "min-cost-climbing-stairs",
+          "title": "Min Cost Climbing Stairs",
+          "difficulty": "Easy",
+          "topic": "1-D DP",
+          "pattern": "DP over steps",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/min-cost-climbing-stairs/"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "date": "2026-11-13",
+      "kind": "learn",
+      "theme": "Backtracking · Graphs",
+      "topics": [
+        "Backtracking",
+        "Graphs"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 80,
+      "items": [
+        {
+          "slug": "letter-combinations-of-a-phone-number",
+          "title": "Letter Combinations of a Phone Number",
+          "difficulty": "Medium",
+          "topic": "Backtracking",
+          "pattern": "Digit-by-digit backtracking",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+        },
+        {
+          "slug": "number-of-islands",
+          "title": "Number of Islands",
+          "difficulty": "Medium",
+          "topic": "Graphs",
+          "pattern": "Grid DFS/BFS",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/number-of-islands/"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "date": "2026-11-14",
+      "kind": "review",
+      "theme": "Review & re-solve",
+      "topics": [],
+      "budget_minutes": 120,
+      "planned_minutes": 95,
+      "items": [
+        {
+          "slug": "find-median-from-data-stream",
+          "title": "Find Median from Data Stream",
+          "difficulty": "Hard",
+          "topic": "Heap / Priority Queue",
+          "pattern": "Two heaps",
+          "tier": 1,
+          "minutes": 50,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/find-median-from-data-stream/"
+        },
+        {
+          "slug": "implement-trie-prefix-tree",
+          "title": "Implement Trie (Prefix Tree)",
+          "difficulty": "Medium",
+          "topic": "Tries",
+          "pattern": "Trie nodes",
+          "tier": 1,
+          "minutes": 30,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+        },
+        {
+          "slug": "balanced-binary-tree",
+          "title": "Balanced Binary Tree",
+          "difficulty": "Easy",
+          "topic": "Trees",
+          "pattern": "DFS height check",
+          "tier": 1,
+          "minutes": 15,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/balanced-binary-tree/"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "date": "2026-11-15",
+      "kind": "learn",
+      "theme": "Graphs",
+      "topics": [
+        "Graphs"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 80,
+      "items": [
+        {
+          "slug": "max-area-of-island",
+          "title": "Max Area of Island",
+          "difficulty": "Medium",
+          "topic": "Graphs",
+          "pattern": "Grid DFS area",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/max-area-of-island/"
+        },
+        {
+          "slug": "clone-graph",
+          "title": "Clone Graph",
+          "difficulty": "Medium",
+          "topic": "Graphs",
+          "pattern": "DFS/BFS with hash map",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/clone-graph/"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "date": "2026-11-16",
+      "kind": "learn",
+      "theme": "1-D DP",
+      "topics": [
+        "1-D DP"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 80,
+      "items": [
+        {
+          "slug": "house-robber",
+          "title": "House Robber",
+          "difficulty": "Medium",
+          "topic": "1-D DP",
+          "pattern": "Take or skip",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/house-robber/"
+        },
+        {
+          "slug": "house-robber-ii",
+          "title": "House Robber II",
+          "difficulty": "Medium",
+          "topic": "1-D DP",
+          "pattern": "Circular split",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/house-robber-ii/"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "date": "2026-11-17",
+      "kind": "learn",
+      "theme": "2-D DP",
+      "topics": [
+        "2-D DP"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 80,
+      "items": [
+        {
+          "slug": "unique-paths",
+          "title": "Unique Paths",
+          "difficulty": "Medium",
+          "topic": "2-D DP",
+          "pattern": "Grid DP",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/unique-paths/"
+        },
+        {
+          "slug": "longest-common-subsequence",
+          "title": "Longest Common Subsequence",
+          "difficulty": "Medium",
+          "topic": "2-D DP",
+          "pattern": "Two-string DP",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/longest-common-subsequence/"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "date": "2026-11-18",
+      "kind": "learn",
+      "theme": "2-D DP · Greedy · Bit Manipulation",
+      "topics": [
+        "2-D DP",
+        "Greedy",
+        "Bit Manipulation"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "edit-distance",
+          "title": "Edit Distance",
+          "difficulty": "Medium",
+          "topic": "2-D DP",
+          "pattern": "Two-string DP",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/edit-distance/"
+        },
+        {
+          "slug": "jump-game",
+          "title": "Jump Game",
+          "difficulty": "Medium",
+          "topic": "Greedy",
+          "pattern": "Furthest reach",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/jump-game/"
+        },
+        {
+          "slug": "single-number",
+          "title": "Single Number",
+          "difficulty": "Easy",
+          "topic": "Bit Manipulation",
+          "pattern": "XOR",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/single-number/"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "date": "2026-11-19",
+      "kind": "learn",
+      "theme": "Greedy · Intervals · Bit Manipulation",
+      "topics": [
+        "Greedy",
+        "Intervals",
+        "Bit Manipulation"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "jump-game-ii",
+          "title": "Jump Game II",
+          "difficulty": "Medium",
+          "topic": "Greedy",
+          "pattern": "BFS-style greedy",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/jump-game-ii/"
+        },
+        {
+          "slug": "insert-interval",
+          "title": "Insert Interval",
+          "difficulty": "Medium",
+          "topic": "Intervals",
+          "pattern": "Merge while scanning",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/insert-interval/"
+        },
+        {
+          "slug": "number-of-1-bits",
+          "title": "Number of 1 Bits",
+          "difficulty": "Easy",
+          "topic": "Bit Manipulation",
+          "pattern": "Bit counting",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/number-of-1-bits/"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "date": "2026-11-20",
+      "kind": "learn",
+      "theme": "Intervals · Math & Geometry · Bit Manipulation",
+      "topics": [
+        "Intervals",
+        "Math & Geometry",
+        "Bit Manipulation"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "merge-intervals",
+          "title": "Merge Intervals",
+          "difficulty": "Medium",
+          "topic": "Intervals",
+          "pattern": "Sort by start",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/merge-intervals/"
+        },
+        {
+          "slug": "rotate-image",
+          "title": "Rotate Image",
+          "difficulty": "Medium",
+          "topic": "Math & Geometry",
+          "pattern": "Transpose + reverse",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/rotate-image/"
+        },
+        {
+          "slug": "counting-bits",
+          "title": "Counting Bits",
+          "difficulty": "Easy",
+          "topic": "Bit Manipulation",
+          "pattern": "DP on bits",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/counting-bits/"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "date": "2026-11-21",
+      "kind": "review",
+      "theme": "Review & re-solve",
+      "topics": [],
+      "budget_minutes": 120,
+      "planned_minutes": 105,
+      "items": [
+        {
+          "slug": "max-area-of-island",
+          "title": "Max Area of Island",
+          "difficulty": "Medium",
+          "topic": "Graphs",
+          "pattern": "Grid DFS area",
+          "tier": 1,
+          "minutes": 30,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/max-area-of-island/"
+        },
+        {
+          "slug": "clone-graph",
+          "title": "Clone Graph",
+          "difficulty": "Medium",
+          "topic": "Graphs",
+          "pattern": "DFS/BFS with hash map",
+          "tier": 1,
+          "minutes": 30,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/clone-graph/"
+        },
+        {
+          "slug": "house-robber",
+          "title": "House Robber",
+          "difficulty": "Medium",
+          "topic": "1-D DP",
+          "pattern": "Take or skip",
+          "tier": 1,
+          "minutes": 30,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/house-robber/"
+        },
+        {
+          "slug": "single-number",
+          "title": "Single Number",
+          "difficulty": "Easy",
+          "topic": "Bit Manipulation",
+          "pattern": "XOR",
+          "tier": 1,
+          "minutes": 15,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/single-number/"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "date": "2026-11-22",
+      "kind": "learn",
+      "theme": "Math & Geometry · Bit Manipulation",
+      "topics": [
+        "Math & Geometry",
+        "Bit Manipulation"
+      ],
+      "budget_minutes": 102,
+      "planned_minutes": 100,
+      "items": [
+        {
+          "slug": "spiral-matrix",
+          "title": "Spiral Matrix",
+          "difficulty": "Medium",
+          "topic": "Math & Geometry",
+          "pattern": "Boundary shrinking",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/spiral-matrix/"
+        },
+        {
+          "slug": "set-matrix-zeroes",
+          "title": "Set Matrix Zeroes",
+          "difficulty": "Medium",
+          "topic": "Math & Geometry",
+          "pattern": "In-place markers",
+          "tier": 1,
+          "minutes": 40,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/set-matrix-zeroes/"
+        },
+        {
+          "slug": "reverse-bits",
+          "title": "Reverse Bits",
+          "difficulty": "Easy",
+          "topic": "Bit Manipulation",
+          "pattern": "Bit shifting",
+          "tier": 1,
+          "minutes": 20,
+          "kind": "new",
+          "url": "https://leetcode.com/problems/reverse-bits/"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "date": "2026-11-23",
+      "kind": "review",
+      "theme": "Final review",
+      "topics": [],
+      "budget_minutes": 120,
+      "planned_minutes": 105,
+      "items": [
+        {
+          "slug": "top-k-frequent-elements",
+          "title": "Top K Frequent Elements",
+          "difficulty": "Medium",
+          "topic": "Arrays & Hashing",
+          "pattern": "Bucket sort / heap",
+          "tier": 1,
+          "minutes": 30,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/top-k-frequent-elements/"
+        },
+        {
+          "slug": "two-sum-ii-input-array-is-sorted",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "difficulty": "Medium",
+          "topic": "Two Pointers",
+          "pattern": "Sorted two pointers",
+          "tier": 1,
+          "minutes": 30,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+        },
+        {
+          "slug": "3sum",
+          "title": "3Sum",
+          "difficulty": "Medium",
+          "topic": "Two Pointers",
+          "pattern": "Sort + two pointers",
+          "tier": 1,
+          "minutes": 30,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/3sum/"
+        },
+        {
+          "slug": "valid-anagram",
+          "title": "Valid Anagram",
+          "difficulty": "Easy",
+          "topic": "Arrays & Hashing",
+          "pattern": "Frequency count",
+          "tier": 1,
+          "minutes": 15,
+          "kind": "review",
+          "url": "https://leetcode.com/problems/valid-anagram/"
+        }
+      ]
+    }
+  ],
+  "replans": []
+}
